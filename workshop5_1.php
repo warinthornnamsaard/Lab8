@@ -7,13 +7,13 @@
         .mid {
             text-align: center;
             background-color: lightgray;
-            margin-left: 20%;
-            margin-right: 20%;
-            margin-top: 3%;
+            margin-left: 25%;
+            margin-right: 25%;
+            margin-top: 5%;
         }
         .box {
             text-align: center;
-            padding: 2%;
+            padding: 4%;
             display: inline-block;
         }
         a, a:visited {
