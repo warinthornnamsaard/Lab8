@@ -6,14 +6,14 @@
     <style>
         .mid {
             display: flex;
-            margin-top: 3%;            
-            margin-left: 37%;
+            margin-top: 5%;            
+            margin-left: 35%;
         }        
         .text {
             display: inline-block;
             font-size: 130%;
-            padding-top: 7%;
-            padding-left: 2%;
+            padding-top: 5%;
+            padding-left: 5%;
         }        
     </style>
 </head>
